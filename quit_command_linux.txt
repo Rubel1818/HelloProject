@@ -1,0 +1,12 @@
+esc
+:q! = quit witout save 
+:wq! = with save 
+:x! = execute and save 
+
+
+vi  editor linux 
+
+
+nano 
+
+gedit 
